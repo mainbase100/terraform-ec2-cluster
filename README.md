@@ -10,8 +10,14 @@
 # 使用技術　　
 - terraform
 - AWS
+- python 3.11.9
+ - flask
+- sqlite 3.43.2
+- 
 <br>
 <br>
 
-# システム構成図
+# AWS構成図
 ![AWSportfolio drawio2](https://github.com/user-attachments/assets/74a8383e-9bf2-4787-9965-b38469a8e183)
+## CI/CD
+
