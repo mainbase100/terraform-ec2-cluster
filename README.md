@@ -8,3 +8,4 @@
 ## AWS
 
 # システム構成図
+![AWSportfolio drawio](https://github.com/user-attachments/assets/daa561f3-37eb-4050-9eaa-7ae66d2c58f6)
