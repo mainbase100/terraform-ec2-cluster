@@ -11,7 +11,7 @@
 - terraform
 - AWS
 - python 3.11.9
- - flask
+  - flask
 - sqlite 3.43.2
 - 
 <br>
