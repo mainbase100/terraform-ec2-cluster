@@ -10,6 +10,12 @@
 # 使用技術　　
 - terraform
 - AWS
+   - vpc
+   - EC2
+   - ALB
+   - RDS
+   - Route53
+   - ACM
 - python 3.11.9
   - flask
 - sqlite 3.43.2
