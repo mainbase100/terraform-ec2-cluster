@@ -19,7 +19,8 @@
 - python 3.11.9
   - flask
 - sqlite 3.43.2
-- 
+- Nginx
+- gunicorn
 <br>
 <br>
 
