@@ -1,8 +1,5 @@
 # terraform-ec2-cluster
 
-
-
-
            
 # _アプリ_
 ![image](https://github.com/user-attachments/assets/ee9c1df0-1d79-4704-950f-3fe89b107b9e)
