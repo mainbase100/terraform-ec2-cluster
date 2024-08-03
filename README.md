@@ -8,8 +8,8 @@
 <br>
 
 # 使用技術　　
-## terraform
-## AWS
+## - terraform
+## - AWS
 <br>
 <br>
 
